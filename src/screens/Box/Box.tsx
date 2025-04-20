@@ -55,7 +55,7 @@ export const Box = (): JSX.Element => {
   // Experience data
   const experience = [
     {
-      role: "Technical assistent Intern",
+      role: "Technical assistant Intern",
       company: "Multico Constructive Pvt. Ltd.",
       period: "july 2024",
       achievements: [
