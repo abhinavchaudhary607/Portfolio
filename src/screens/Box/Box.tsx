@@ -17,7 +17,7 @@ export const Box = (): JSX.Element => {
   const [projects, setProjects] = useState<Project[]>([]);
 
   useEffect(() => {
-    fetch("public/portfolioprojects.json")
+    fetch("/portfolioprojects.json")
       .then((res) => res.json())
       .then((data) => setProjects(data))
       .catch((err) => console.error("Error fetching project data:", err));
