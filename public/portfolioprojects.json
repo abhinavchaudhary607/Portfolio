@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Intrusion Detection System in Cloud using ML",
+      "category": "Web Design",
+      "logo":"/thumbnail.svg"
+    },
+    {
+      "id": 2,
+      "title": "Automated Plagiarism Detection System",
+      "category": "UI/UX Design",
+      "logo":"/thumbnail.svg"
+    },
+    {
+      "id": 3,
+      "title": "IoT Light Intensity Monitoring",
+      "category": "Mobile Apps",
+      "logo":"/thumbnail.svg"
+    },
+    {
+      "id": 4,
+      "title": "Soil Moisture-Based Smart Irrigation",
+      "category": "Mobile Apps",
+      "logo":"/thumbnail.svg"
+    },
+    {
+      "id": 5,
+      "title": "Environmental Monitoring Dashboard (ESP8266)",
+      "category": "Web Design",
+      "logo":"/thumbnail.svg"
+    },
+    {
+      "id": 6,
+      "title": "Portfolio Website (React + Tailwind)",
+      "category": "UI/UX Design",
+      "logo":"/thumbnail.svg"
+    }
+  ]
+  
