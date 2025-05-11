@@ -1,39 +1,31 @@
 [
     {
       "id": 1,
-      "title": "Intrusion Detection System in Cloud using ML",
-      "category": "Web Design",
-      "logo":"/thumbnail.svg"
+      "title": "ASL Hand Gesture Detection Using TensorFlow",
+      "category": "AI/ML, OpenCV, UI/UX Design",
+      "logo":"/project-images/asl.png",
+      "url":"https://handsign-tensorflow.vercel.app/"
     },
     {
       "id": 2,
-      "title": "Automated Plagiarism Detection System",
-      "category": "UI/UX Design",
-      "logo":"/thumbnail.svg"
+      "title": "Automated Access Control System",
+      "category": "AI/ML, OpenCV, UI/UX Design",
+      "logo":"/project-images/aacs.png",
+      "url":""
     },
     {
       "id": 3,
-      "title": "IoT Light Intensity Monitoring",
-      "category": "Mobile Apps",
-      "logo":"/thumbnail.svg"
+      "title": "Weather Monitoring App",
+      "category": "Web Design",
+      "logo":"/project-images/weather.png",
+      "url":"https://quiet-mooncake-091a4b.netlify.app/"
     },
     {
       "id": 4,
-      "title": "Soil Moisture-Based Smart Irrigation",
-      "category": "Mobile Apps",
-      "logo":"/thumbnail.svg"
-    },
-    {
-      "id": 5,
-      "title": "Environmental Monitoring Dashboard (ESP8266)",
-      "category": "Web Design",
-      "logo":"/thumbnail.svg"
-    },
-    {
-      "id": 6,
-      "title": "Portfolio Website (React + Tailwind)",
-      "category": "UI/UX Design",
-      "logo":"/thumbnail.svg"
+      "title": "Intrusion Detection System",
+      "category": "Cyber Security, Web Design",
+      "logo":"/project-images/ids.png",
+      "url":"https://ids-by-abhinav.vercel.app/"
     }
   ]
   
