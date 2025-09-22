@@ -91,7 +91,7 @@ export const Box = (): JSX.Element => {
   const socials=[{
     index:1,
     logo:"/linkedin.svg",
-    link: "https://www.linkedin.com/in/abhinav-chaudhary-94b55625b/"
+    link: "https://www.linkedin.com/in/abhinav-chaudhary-225377270/"
   },{
     index:2,
     logo:"/github.svg",
